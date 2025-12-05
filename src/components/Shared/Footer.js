@@ -147,7 +147,7 @@ export default function Footer() {
             <p>© {new Date().getFullYear()} Prayas by Aarya Foundation. All rights reserved.</p>
             <p className="mt-1">CIN: U85499JH2017NPL024878</p>
             <p className="mt-1">
-              Designed and Maintained By <a href="https://webitya.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Webitya</a>
+              Designed and Maintained By <a href="https://webitya.com" target="_blank" rel="noopener noreferrer" className="hover:text-white/20 text-white transition-colors">Webitya</a>
             </p>
           </div>
 
